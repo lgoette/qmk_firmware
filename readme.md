@@ -1,9 +1,9 @@
 # Custom Changes
 
 ## Keyboards
-* [Keychron Q1 & Keychron Q0](/keyboards/keychron_custom/)
-    * [Q1 config.h](/keyboards/keychron_custom/q1/config.h)
-    * [Q1 config.h](/keyboards/keychron_custom/q0/config.h)
+* [Keychron Q1v2Knob & Keychron Q0](/keyboards/keychron_custom/)
+    * [Q1v2Knob config.h](/keyboards/keychron_custom/q1/config.h)
+    * [Q0 config.h](/keyboards/keychron_custom/q0/config.h)
     
 ## rgb_matrix animations
 * [animations](/quantum/rgb_matrix/animations/)
